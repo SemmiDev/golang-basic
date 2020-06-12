@@ -1,0 +1,6 @@
+1. Belajar Java
+2. Belajar Go
+3. Belajar C++
+4. Belajar C#
+5. Belajar javascript
+6. etc...
